@@ -16,4 +16,4 @@ Project made by:
 
 -Carlos Pereira
 
-All preprocessing, architecture details and results can be found on the Word Document "Informe", in Spanish.
+All preprocessing, architecture details and results can be found in the Word Document "Informe", in Spanish.
